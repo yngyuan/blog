@@ -1,25 +1,33 @@
-#!/bin/sh
-
-# If a command fails then the deploy stops
+#!/bin/bash
+# 部署到 github pages 脚本
+# 错误时终止脚本
 set -e
 
-printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
+# 删除打包文件夹
+rm -rf public
 
-# Build the project.
-hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
+# 打包。even 是主题
+hugo -t jane # if using a theme, replace with `hugo -t <YOURTHEME>`
 
-# Go To Public folder
+# 进入打包文件夹
 cd public
 
 # Add changes to git.
-git add .
+
+git init
+git add -A
 
 # Commit changes.
-msg="rebuilding site $(date)"
-if [ -n "$*" ]; then
-	msg="$*"
+msg="building site `date`"
+if [ $# -eq 1 ]
+  then msg="$1"
 fi
 git commit -m "$msg"
 
-# Push source and build repos.
-git push origin master
+# 推送到githu  
+# .github.io 只能使用 master分支
+git push -f git@github.com:yngyuan/yngyuan.github.io.git master
+
+# 回到原文件夹
+cd ..
+
