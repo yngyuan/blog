@@ -11,15 +11,12 @@ mathjax: false
 
 Hello world! 你好世界！I am Yang, a master's student at University of Texas at Austin. 
 
+I majored in Computing Science(Mathematics) in my undergraduate study and it gave me an instinct for data analysis and a mindset that nothing can be harder than my major. 
 
+Prior to master’s study, I had internships at Tencent and Amazon, where I worked as a product manager and data analyst intern. I also worked as a software engineer intern at a startup. I love working with people from different disciplines and I am amazed by the creativity we sparked together in an agile team.
 
-Résumé
+My Résumé
 ============
-
--------------------     ----------------------------
-email: zedd.yuan@utexas.edu
--------------------     ----------------------------
-
 Education
 ---------
 
@@ -31,10 +28,10 @@ Education
 
    **Minor: Computer Science **
 
-Experience
+Internships
 ----------
 
-**Tencent Inc.** Beijing, China    May. 2018 -- Sep. 2018
+**Tencent Inc.** *Beijing, China*    May. 2018 -- Sep. 2018
 
 Short text containing the type of work done, results obtaine
 
@@ -45,11 +42,14 @@ Short text containing the type of work done, results obtaine
 * Item with [link](http://www.example.com). Links will work both in
   the html and pdf versions.
 
-**That Other Job You Had**
+**Amazon Inc.** *Beijing, China*     Dec. 2017 -- Feb. 2018
 
-Also with a short description.
+* Developed automation tools using Java to facilitate vendor management of publishers. 
+* Initiated and implemented web crawlers to compare book prices among shopping websites.
+* Provided data support for the product team, including designing SQL and data analysis on Onsite decisions.     
 
-Technical Experience
+
+Projects
 --------------------
 
 My Cool Side Project
@@ -68,6 +68,7 @@ Open Source
     your idea...
 
 Programming Languages
+----------------------
 :   **first-lang:** Here, we have an itemization, where we only want
     to add descriptions to the first few items, but still want to
     mention some others together at the end. A format that works well
@@ -88,8 +89,8 @@ Programming Languages
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+Miscellaneous
+----------------
 
 * Human Languages:
 

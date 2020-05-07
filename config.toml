@@ -79,7 +79,7 @@ defaultContentLanguage = "en"           # Default language to use
   customJS = []             # if ['custom.js'], load '/static/js/custom.js' file
 
   [params.social]                                         # 社交链接
-    a-email = "zeds.yuan@utexas.edu"
+    a-email = "mailto:zedd.yuan@utexas.edu"
     e-linkedin = "https://www.linkedin.com/in/theyuan/"
     g-github = "https://github.com/yngyuan"
 #    q-quora = "https://www.quora.com/profile/Y-YUAN-7"
