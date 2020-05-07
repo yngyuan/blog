@@ -9,43 +9,38 @@ comment: false
 mathjax: false
 ---
 
-I am a master's student at University of Texas at Austin. 
+Hello world! 你好世界！I am Yang, a master's student at University of Texas at Austin. 
 
 
-Johnny Coder
+
+Résumé
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+email: zedd.yuan@utexas.edu
 -------------------     ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2019-2021 (expected)
+:   **MsC, Information Science**; University of Texas at Austin
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+2015-2019
+:   **BSc, Computational Mathematics**; Beijing University of Posts and Telecommunications
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+   **Minor: Computer Science **
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Tencent Inc.** Beijing, China    May. 2018 -- Sep. 2018
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Short text containing the type of work done, results obtaine
 
-* First item
+* Designed various A/B Tests and analyzed user behaviours and feed-backs for growth hacking of product.
+* Built a Machine Learning model in Python, implementing Cluster Algorithms to draw App user profile.
+* Owned and designed AARRR user acquisition analysis using HiveQL and Python.
 
 * Item with [link](http://www.example.com). Links will work both in
   the html and pdf versions.
