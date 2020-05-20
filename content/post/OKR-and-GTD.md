@@ -109,23 +109,30 @@ As mentioned above, GTD is here to optimize the first 4 steps.
   ```python
   labels = ["useless", "might do", "might use","2-min", 
             "multi-step", "others do", "I do",  ]
-  
-  for item in in_list:
-    read(item)          # have a glance
-    if not isExcutableNow(item):
-      item.label = "useless" or "might do" or "might use"
-    else:
-      if doneIn2mins(item):
-        item.label = "2-min"              # can be done in 2 minutes
-      else:
-        if not doneIn1step(item):
-          item.label = "multi-step"        # more than 2 minutes but 1 step, aka. project
-        else:            # could be done in 1 step, also called a task
-          if dobyme(item):
-            item.label = "I do"
-          else:
-            item.label = "others do"
-  return item
+  def gtd(item):
+  	for item in in_list:
+    	read(item)          
+      # have a glance
+    	if not isExcutableNow(item):
+      	item.label = "useless" or "might do" or "might use"
+    	else:
+        
+      	if doneIn2mins(item):
+        	item.label = "2-min"              
+          # can be done in 2 minutes
+      	else:
+          
+        	if not doneIn1step(item):
+          	item.label = "multi-step"        
+            # more than 2 minutes but 1 step, aka. project
+        	else:
+            # could be done in 1 step, also called a task
+            
+            if dobyme(item):
+            	item.label = "I do"
+          	else:
+            	item.label = "others do"
+  	return item
   ```
 
 After this, we have judged and labeled eveything in our in-list.
