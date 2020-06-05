@@ -106,7 +106,7 @@ As mentioned above, GTD is here to optimize the first 4 steps.
 
   We judge those items and put labels on them. To better illustrate I use psudo python code.
 
-  ```python
+  ```python3 {linenos=table,hl_lines=[8,"15-17"],linenostart=199}
   labels = ["useless", "might do", "might use","2-min", 
             "multi-step", "others do", "I do",  ]
   def gtd(item):
