@@ -106,10 +106,10 @@ As mentioned above, GTD is here to optimize the first 4 steps.
 
   We judge those items and put labels on them. To better illustrate I use psudo python code.
 
-  ```python3 {linenos=table,hl_lines=[8,"15-17"],linenostart=199}
-  labels = ["useless", "might do", "might use","2-min", 
-            "multi-step", "others do", "I do",  ]
+  ```python
   def gtd(item):
+  	labels = ["useless", "might do", "might use","2-min", 
+            "multi-step", "others do", "I do",  ]
   	for item in in_list:
     	read(item)          
       # have a glance
@@ -134,6 +134,8 @@ As mentioned above, GTD is here to optimize the first 4 steps.
             	item.label = "others do"
   	return item
   ```
+  
+  
 
 After this, we have judged and labeled eveything in our in-list.
 
