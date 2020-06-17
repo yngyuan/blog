@@ -481,7 +481,7 @@ private static void sort(Comparable[] a,  int lo, int hi)
 
 A Priority Queue supports two operations: *remove the maximum*/minimum and *insert*. we consider a classic priority-queue implementation based on the *binary heap* data structure, where items are kept in an array, subject to certain ordering constraints that allow for efficient (logarithmic-time) implementations of *remove the maximum* and *insert*. 
 
-#### Heap
+### Heap
 
  binary tree is *heap-ordered* if the key in each node is larger than or equal to the keys in that node’s two children (if any).
 
@@ -549,7 +549,7 @@ public class MaxPQ<Key extends Comparable<Key>>
 
 
 
-#### Heap Sort
+### Heap Sort
 
 We insert all the items to be sorted into a minimum-oriented priority queue, then repeatedly use *remove the minimum* to remove them all in order. Heapsort breaks into two phases: *heap construction*, where we reorganize the original array into a heap, and the *sortdown*, where we pull the items out of the heap in decreas- ing order to build the sorted result.
 
@@ -655,7 +655,9 @@ class Solution {
 
 
 
-## Summary
+# Summary
 
-![Screen Shot 2020-06-16 at 10.13.08 PM](/Users/youngyuan/yyblog/blog/content/post/Screen Shot 2020-06-16 at 10.13.08 PM.png)
+
+
+![sorting](/image/sorting.png)
 
