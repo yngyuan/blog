@@ -6,7 +6,7 @@ draft: false
 keywords: ["distributed system","notes"]
 description: "Notes from Tim Berglund's speech on O'Reilly Media."
 tags: ["distributed system"]
-categories: ["tech", "distributed system"]
+categories: ["distributed system"]
 author: ""
 
 # You can also close(false) or open(true) something for this content.

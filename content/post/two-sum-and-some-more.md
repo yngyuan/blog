@@ -6,7 +6,7 @@ draft: false
 keywords: ["two sum", "leetcode"]
 description: ""
 tags: ["leetcode","data structure"]
-categories: ["tech", "algorithms"]
+categories: ["algorithms"]
 author: ""
 
 # You can also close(false) or open(true) something for this content.
