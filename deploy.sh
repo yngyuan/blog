@@ -24,7 +24,7 @@ if [ $# -eq 1 ]
 fi
 git commit -m "$msg"
 
-# 推送到githu  
+# 推送到github  
 # .github.io 只能使用 master分支
 git push -f git@github.com:yngyuan/yngyuan.github.io.git master
 
