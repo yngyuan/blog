@@ -7,7 +7,7 @@ draft: false
 keywords: ["dynamic programming", "algorithms"]
 description: ""
 tags: ["algorithms", "dynamic programming"]
-categories: ["leetcode"]
+categories: ["algorithms"]
 author: ""
 
 # You can also close(false) or open(true) something for this content.

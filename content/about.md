@@ -1,6 +1,6 @@
 ---
 # Common-Defined
-title: "About"
+title: "AspiringFull-Time Software Engineer - 2021 New Grad"
 date: 2020-04-27T15:40:33-05:00
 menu: "main"
 weight: 50
@@ -9,26 +9,29 @@ comment: false
 mathjax: false
 ---
 
-Hello world! 你好世界！I am Yang, a master's student at University of Texas at Austin. 
+Hello world！This is [Yang Yuan] ( https://www.linkedin.com/in/theyuan/ ). Yang is currently a Master's student in Information Science at UT Austin. 
 
-I majored in Computing Science(Mathematics) in my undergraduate study and it gave me an instinct for data analysis and a mindset that nothing can be harder than my major. 
 
-Prior to master’s study, I had internships at Tencent and Amazon, where I worked as a product manager and data analyst intern. I also worked as a software engineer intern at a startup. I love working with people from different disciplines and I am amazed by the creativity we sparked together in an agile team.
 
-My Résumé
+Résumé
 ============
 Education
 ---------
 
 2019-2021 (expected)
-:   **MsC, Information Science**; University of Texas at Austin
+**MsC, Information Science**; University of Texas at Austin.
 
 2015-2019
-:   **BSc, Computational Mathematics**; Beijing University of Posts and Telecommunications
+**BSc, Computational Mathematics**; Beijing University of Posts and Telecommunications(BUPT).
 
-   **Minor: Computer Science **
+Skills
+----------------------
 
-Internships
+**Programming Language:** Java, Python, Go(golang), JavaScript, HTML/CSS, SQL, Kotlin, PHP, C/C++   
+
+**Tools and Technologies:** Spring Boot, Flask, React.js, Vue.js, jQuery, MongoDB, HBase, ElasticSearch, MyBatis, Redis, Firebase, Jenkins, Blockchain
+
+Professional Experience
 ----------
 
 **Tencent Inc.** *Beijing, China*    May. 2018 -- Sep. 2018
@@ -67,37 +70,25 @@ Open Source
     (with [link](http://nodejs.org)) which was actually totally
     your idea...
 
-Programming Languages
-----------------------
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+****
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
-Miscellaneous
+
+
+Honors
+----------------------
+
+
+
+More about me
 ----------------
 
 * Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+* Chinese(Native Speaker)
+     * English (Full professional proficiency)
+     * Japanese(Limited working proficiency)
+* Marathon runner, PB 4:32:05. 
+* Guitar Player. 
