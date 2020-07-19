@@ -9,7 +9,7 @@ comment: false
 mathjax: false
 ---
 
-Hello world！This is [Yang Yuan](https://www.linkedin.com/in/theyuan/). Yang is currently a Master's student in Information Science at UT Austin. 
+Hello world！This is [Yang](https://www.linkedin.com/in/theyuan/). Yang is currently a Master's student in Information Science at UT Austin. 
 
 
 
